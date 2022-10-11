@@ -3,7 +3,6 @@ import "../App.css";
 import firebase from "firebase/compat/app";
 import "firebase/compat/firestore";
 import "firebase/compat/auth";
-import SignOut from "./SignOut";
 import ChatMessage from "./ChatMessage";
 
 import { useCollectionData } from "react-firebase-hooks/firestore";
